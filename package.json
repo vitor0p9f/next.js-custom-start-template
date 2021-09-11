@@ -1,0 +1,33 @@
+{
+  "name": "next.js-custom-start-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "yarn lint && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "commit": "yarn lint && git-cz"
+  },
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.39.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "@types/react": "^17.0.20",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "3.3.0",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "eslint-config-prettier": "^8.3.0",
+    "typescript": "^4.4.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
