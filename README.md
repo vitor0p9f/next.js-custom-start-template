@@ -1,4 +1,4 @@
-#### Overview
+# Overview
 
 This start template was maded to help in creation of new projects using Next.js framework.
 
@@ -19,7 +19,7 @@ This start template was maded to help in creation of new projects using Next.js 
 
 ```bash
   npx create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
-  #or
+  # or
   yarn create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
 ```
 
@@ -30,6 +30,7 @@ This start template was maded to help in creation of new projects using Next.js 
 
 ```bash
   git add .
+  # and
   yarn commit
 ```
 
