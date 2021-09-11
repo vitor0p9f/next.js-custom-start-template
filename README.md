@@ -1,3 +1,40 @@
+#### Overview
+
+This start template was maded to help in creation of new projects using Next.js framework.
+
+<hr/>
+
+## What is in template?
+
+* Typescript
+* ESLint
+* Prettier
+* SASS
+* Editor config file with my VSCode preferences
+* Commitizen
+
+<hr/>
+
+## How to use this template?
+
+```bash
+  npx create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
+  #or
+  yarn create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
+```
+
+
+<hr/>
+
+## Making commits
+
+```bash
+  git add .
+  yarn commit
+```
+
+<hr/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
