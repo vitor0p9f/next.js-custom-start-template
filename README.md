@@ -20,7 +20,7 @@ This start template was maded to help in creation of new projects using Next.js 
 ```bash
   npx create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
   # or
-  yarn create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
+  yarn create next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template.git
 ```
 
 
