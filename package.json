@@ -1,13 +1,14 @@
 {
   "name": "next.js-custom-start-template",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "yarn lint && next build",
     "start": "next start",
     "lint": "next lint",
-    "commit": "yarn lint && git-cz"
+    "test": "jest --passWithNoTests",
+    "commit": "yarn lint && yarn test && git-cz"
   },
   "dependencies": {
     "next": "^12.0.2",
@@ -16,14 +17,24 @@
     "sass": "^1.39.2"
   },
   "devDependencies": {
+    "@testing-library/dom": "^8.11.0",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.0.2",
     "@types/node": "^16.9.1",
     "@types/react": "^17.0.20",
+    "babel-jest": "^27.3.1",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-testing-library": "^5.0.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.3.1",
+    "react-test-renderer": "^17.0.2",
     "typescript": "^4.4.3"
   },
   "config": {
