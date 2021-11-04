@@ -20,9 +20,9 @@ This start template was maded to help in creation of new projects using Next.js 
 ## How to use this template?
 
 ```bash
-  npx create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template
+  npx create-next-app [project_name] -e https://github.com/vitor0p9f/next.js-custom-start-template
   # or
-  yarn create next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template
+  yarn create next-app [project_name] -e https://github.com/vitor0p9f/next.js-custom-start-template
 ```
 
 
