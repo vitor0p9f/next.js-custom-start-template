@@ -12,6 +12,8 @@ This start template was maded to help in creation of new projects using Next.js 
 * SASS
 * Editor config file with my VSCode preferences
 * Commitizen
+* Jest
+* Testing Library
 
 <hr/>
 
