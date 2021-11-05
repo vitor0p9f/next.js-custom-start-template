@@ -1,6 +1,6 @@
 # Overview
 
-This start template was maded to help in creation of new projects using Next.js framework.
+This start template was made to help in creation of new projects using Next.js framework.
 
 <hr/>
 
