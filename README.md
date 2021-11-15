@@ -1,6 +1,6 @@
 # Overview
 
-This start template was maded to help in creation of new projects using Next.js framework.
+This start template was made to help in creation of new projects using Next.js framework.
 
 <hr/>
 
@@ -12,15 +12,17 @@ This start template was maded to help in creation of new projects using Next.js 
 * SASS
 * Editor config file with my VSCode preferences
 * Commitizen
+* Jest
+* Testing Library
 
 <hr/>
 
 ## How to use this template?
 
 ```bash
-  npx create-next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template
+  npx create-next-app [project_name] -e https://github.com/vitor0p9f/next.js-custom-start-template
   # or
-  yarn create next-app [project_name] -e https://github.com/vitor0p9f/Next.js-Custom-Start-Template
+  yarn create next-app [project_name] -e https://github.com/vitor0p9f/next.js-custom-start-template
 ```
 
 
