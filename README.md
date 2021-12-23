@@ -7,7 +7,7 @@ This start template was made to help in creation of new projects using Next.js f
 ## What is in template?
 
 * Typescript
-* ESLint
+* ESLint with some settings
 * Prettier
 * SASS
 * Editor config file with my VSCode preferences
