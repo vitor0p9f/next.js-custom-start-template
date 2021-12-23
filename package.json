@@ -12,7 +12,7 @@
     "commit": "yarn lint && yarn test && git-cz"
   },
   "dependencies": {
-    "next": "^12.0.2",
+    "next": "^12.0.5",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "sass": "^1.39.2"
